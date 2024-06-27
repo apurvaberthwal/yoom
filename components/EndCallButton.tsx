@@ -18,7 +18,7 @@ const EndCallButton = () => {
     await call.endCall()
     router.push('/')
 
-    }} className='bg-red-500'>
+    }} className='bg-red-500'>End call 
     </Button>
 
   )
